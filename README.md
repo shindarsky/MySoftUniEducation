@@ -1,2 +1,2 @@
 # MySoftUniEducation
-used when I study in SoftUni.bg
+used when I've studied in SoftUni.bg
